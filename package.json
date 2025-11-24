@@ -1,0 +1,22 @@
+{
+  "name": "expo-cli-bug-repro",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "dependencies": {
+    "expo": "~54.0.25",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-web": "^0.21.0"
+  },
+  "devDependencies": {
+    "@expo/cli": "54.0.16",
+    "@nx/expo": "^22.1.1",
+    "metro-config": "~0.82.4",
+    "metro-resolver": "~0.82.4",
+    "nx": "22.1.1"
+  }
+}
