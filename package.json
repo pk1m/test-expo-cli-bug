@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "workspaces": [
-    "apps/*"
+    "apps/*",
+    "libs/*"
   ],
   "dependencies": {
     "expo": "~54.0.25",
@@ -13,10 +14,6 @@
     "react-native-web": "^0.21.0"
   },
   "devDependencies": {
-    "@expo/cli": "54.0.12",
-    "@nx/expo": "^22.1.1",
-    "metro-config": "~0.82.4",
-    "metro-resolver": "~0.82.4",
     "nx": "22.1.1"
   }
 }
