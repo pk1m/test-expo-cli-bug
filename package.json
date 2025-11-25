@@ -14,9 +14,6 @@
     "react-native-web": "^0.21.0"
   },
   "devDependencies": {
-    "@expo/cli": "54.0.12",
-    "metro-config": "~0.82.4",
-    "metro-resolver": "~0.82.4",
     "nx": "22.1.1"
   }
 }
